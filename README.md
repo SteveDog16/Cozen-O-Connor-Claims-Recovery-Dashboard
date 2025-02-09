@@ -33,6 +33,8 @@ The objective of this project is to analyze paid claim trends at Cozen O'Connor 
 
 ## 1. Which date variable is the most significant to determine the paid claim amount?
 ![image](https://github.com/user-attachments/assets/29b1ecf2-da20-4e03-a7e2-e63e1a07df9a)
+![image](https://github.com/user-attachments/assets/b1fa113d-f3a0-42cc-936e-f46226cf8900)
+![image](https://github.com/user-attachments/assets/3e97fa0b-d812-4326-8b6f-91652f39184a)
 
 
 
