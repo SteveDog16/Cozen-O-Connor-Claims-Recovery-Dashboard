@@ -9,6 +9,7 @@ The objective of this project is to analyze paid claim trends at Cozen O'Connor 
 2. At what time period the paid claim amounts are at its peak?
 3. What recovery stages associate with low and high paid claim amount?
 4. What are the relationships between date variables in terms of the paid claim amount?
+5. What are the recommended next steps based on the findings?
 
 ## Tools Used
 - Python for data exploration, analysis, and visualization
@@ -31,6 +32,7 @@ The objective of this project is to analyze paid claim trends at Cozen O'Connor 
 
 
 ## 1. Which date variable is the most significant to determine the paid claim amount?
+![image](https://github.com/user-attachments/assets/ea9354d5-791e-47da-bd78-b3823b7debf7)
 
 
 
