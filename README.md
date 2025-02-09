@@ -41,6 +41,7 @@ The objective of this project is to analyze paid claim trends at Cozen O'Connor 
 ## 2. At what time period the paid claim amounts are at its peak?
 ![image](https://github.com/user-attachments/assets/98d0e103-6cdb-47ad-a873-90cfc032f7d1)
 KPI Scorecards when filtered by 2022
+
 ![image](https://github.com/user-attachments/assets/a696b85a-c123-4183-bc18-1b6e534f55c7)
 
 
@@ -48,6 +49,16 @@ KPI Scorecards when filtered by 2022
 
 ## 3. What recovery stages associate with low and high paid claim amount?
 ![image](https://github.com/user-attachments/assets/8684be5d-1e6c-45b3-8e7c-dfd592c61801)
+KPI filtered by "Issued Demand Letter to Responsible Party"
+
+![image](https://github.com/user-attachments/assets/2fa745d5-0a26-44bd-bc5e-0476365ab09f)
+KPI filtered by "Demand Under Review by Adverse Carrier/Resp Party"
+
+![image](https://github.com/user-attachments/assets/ba73fb4b-fd1c-409e-b463-a8de029e4a07)
+KPI filtered by "Settled and Awaiting Settlement Proceeds"
+
+![image](https://github.com/user-attachments/assets/67e4920e-322b-4405-8e63-ef5e79932fd4)
+
 ![image](https://github.com/user-attachments/assets/fd989b24-de11-4f6d-90fb-d1f9da0a6f84)
 
 - "Issued Demand Letter to Responsible Party" is the stage with the highest paid claims, following "Demand Under Review by Adverse Carrier/Resp Party" and "Settled and Awaiting Settlement Proceeds". This means that the majority of the claim amount is paid during the earlier stages of the litigation process.
