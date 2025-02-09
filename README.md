@@ -44,3 +44,12 @@ The objective of this project is to analyze paid claim trends at Cozen O'Connor 
 
 
 - Paid claim amounts are at its highest in incidents that occurred between February to May of 2022, with May 2022 being the highest at a total of $1 million.
+
+## 3. What recovery stages associate with low and high paid claim amount?
+![image](https://github.com/user-attachments/assets/8684be5d-1e6c-45b3-8e7c-dfd592c61801)
+![image](https://github.com/user-attachments/assets/fd989b24-de11-4f6d-90fb-d1f9da0a6f84)
+
+- "Issued Demand Letter to Responsible Party" is the stage with the highest paid claims, following "Demand Under Review by Adverse Carrier/Resp Party" and "Settled and Awaiting Settlement Proceeds". This means that the majority of the claim amount is paid during the earlier stages of the litigation process.
+- Claim that occurred in 2022 have a lot of paid amount at many distributed early stages. 2021 claims are also widely distributed in the early stages, but not as much as 2022. There are very few claims from 2018, 2020, and 2023 that showed up in some of the stages.
+
+- 
