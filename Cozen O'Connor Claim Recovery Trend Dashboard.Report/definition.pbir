@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Cozen O'Connor Claim Recovery Trend Dashboard.SemanticModel"
+    },
+    "byConnection": null
+  }
+}
