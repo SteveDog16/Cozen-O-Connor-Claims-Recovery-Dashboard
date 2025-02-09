@@ -9,4 +9,24 @@ I have worked at Cozen O'Connor as an Information Systems intern, where I have b
 - At what time period the paid claim amounts are at its peak?
 - What recovery stages associate with low and high paid claim amount?
 - Do the add and SOL projected dates affect the paid claim amount?
-  
+
+  # Tools Used
+  - Python
+  - Jupyter Notebook
+  - Power BI
+
+  # Dataset
+
+  The dataset consists of 238 claims. The columns are:
+  - Unique Identifier:
+  - Analyst
+  - Incident Date
+  - SOL PD
+  - Litigation Date Type
+  - Paid Claim
+  - Add Date
+  - Recovery Stage
+ 
+  # Dashboard
+  ![image](https://github.com/user-attachments/assets/d077c6d2-b4ca-404c-b151-9c5572e12d3a)
+
