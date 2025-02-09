@@ -40,6 +40,7 @@ The objective of this project is to analyze paid claim trends at Cozen O'Connor 
 
 ## 2. At what time period the paid claim amounts are at its peak?
 ![image](https://github.com/user-attachments/assets/98d0e103-6cdb-47ad-a873-90cfc032f7d1)
+KPI Scorecards when filtered by 2022
 ![image](https://github.com/user-attachments/assets/a696b85a-c123-4183-bc18-1b6e534f55c7)
 
 
