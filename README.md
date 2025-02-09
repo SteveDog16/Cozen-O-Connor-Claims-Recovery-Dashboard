@@ -11,21 +11,20 @@ I have worked at Cozen O'Connor as an Information Systems intern, where I have b
 - Do the add and SOL projected dates affect the paid claim amount?
 
   # Tools Used
-  - Python
-  - Jupyter Notebook
-  - Power BI
+  - Python for data exploration, analysis, and visualization
+  - Power BI for displaying KPIs, graphs, and filters
 
   # Dataset
 
   The dataset consists of 238 claims. The columns are:
-  - Unique Identifier:
-  - Analyst
-  - Incident Date
-  - SOL PD
-  - Litigation Date Type
-  - Paid Claim
-  - Add Date
-  - Recovery Stage
+  - Unique Identifier: Code that distinguishes a claim from others.
+  - Analyst: Name of the analyst who is handling or is responsible for the case.
+  - Incident Date: The date on which the incident occurred or was initially reported.
+  - SOL PD (Statute of Limitations Projected Date): Estimated date for when a task, project, or event will be completed.
+  - Litigation Date Type: Category of dates associated with the litigation process.
+  - Paid Claim: Amount that has been paid out for a claim.
+  - Add Date: The date when this case or incident was added to the tracking system.
+  - Recovery Stage: The current stage of the recovery or resolution process for this case. The demand has been made and is under review by the opposing party or their insurance carrier.
  
   # Dashboard
   ![image](https://github.com/user-attachments/assets/d077c6d2-b4ca-404c-b151-9c5572e12d3a)
