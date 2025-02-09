@@ -30,15 +30,12 @@ The objective of this project is to analyze paid claim trends at Cozen O'Connor 
 ## Dashboard
   ![image](https://github.com/user-attachments/assets/d077c6d2-b4ca-404c-b151-9c5572e12d3a)
 
-### Filters
-![image](https://github.com/user-attachments/assets/a8358f8b-cb0d-4c5c-88cb-1b67133172f6)
-![image](https://github.com/user-attachments/assets/6b3ec9ce-1172-4c4f-843a-45ea8e18cf27)
-![image](https://github.com/user-attachments/assets/d1b1c9d5-a7bb-4179-84aa-9f6b55a84891)
-![image](https://github.com/user-attachments/assets/cb4d10e2-8475-4fd1-a21c-da1c0c9b281a)
 
-### Table
-![image](https://github.com/user-attachments/assets/502074ec-931e-40dc-a14f-d9cea7f1369e)
+### Insights
+![image](https://github.com/user-attachments/assets/6840e207-e8fd-43e7-9629-99455cbf9fc9)
+![image](https://github.com/user-attachments/assets/094bc763-f9e2-498f-9087-04d155b0b213)
 
-### KPIs
-![image](https://github.com/user-attachments/assets/fb9c5d01-5997-41e6-b073-d9fd3a23e87b)
+
+- To
+
 
