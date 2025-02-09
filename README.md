@@ -49,12 +49,15 @@ KPI Scorecards when filtered by 2022
 
 ## 3. What recovery stages associate with low and high paid claim amount?
 ![image](https://github.com/user-attachments/assets/8684be5d-1e6c-45b3-8e7c-dfd592c61801)
+
 KPI filtered by "Issued Demand Letter to Responsible Party"
 
 ![image](https://github.com/user-attachments/assets/2fa745d5-0a26-44bd-bc5e-0476365ab09f)
+
 KPI filtered by "Demand Under Review by Adverse Carrier/Resp Party"
 
 ![image](https://github.com/user-attachments/assets/ba73fb4b-fd1c-409e-b463-a8de029e4a07)
+
 KPI filtered by "Settled and Awaiting Settlement Proceeds"
 
 ![image](https://github.com/user-attachments/assets/67e4920e-322b-4405-8e63-ef5e79932fd4)
