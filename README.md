@@ -39,4 +39,8 @@ The objective of this project is to analyze paid claim trends at Cozen O'Connor 
 - Given the graphs showing each date variable and the understanding of the variables, incident date is the most significant variable to determine the relationship with paid claim amount.
 
 ## 2. At what time period the paid claim amounts are at its peak?
+![image](https://github.com/user-attachments/assets/98d0e103-6cdb-47ad-a873-90cfc032f7d1)
+![image](https://github.com/user-attachments/assets/a696b85a-c123-4183-bc18-1b6e534f55c7)
 
+
+- Paid claim amounts are at its highest in incidents that occurred between February to May of 2022, with May 2022 being the highest at a total of $1 million.
