@@ -2,6 +2,7 @@
 
 ## Introduction
 I have worked at Cozen O'Connor as an Information Systems intern, where I have built and optimized BI reports for the Subrogation department. One of the reports I optimized tracks the statute of limitations on active claims, displaying claims that were approaching the relevant statute. After converting the report from a PDF to Excel file, the report was able to run weekly faster with lesser manual work of the BI team. The dataset I used for this project is a sample of the report. Information, such as analyst names, have been altered to keep private of the company's information.
+The objective of this project is to analyze paid claim trends at Cozen O'Connor and determine the underlying causes driving these trends.
 
 ## Questions to Ask
 - What variables correlate with paid claim amount?
@@ -28,4 +29,11 @@ I have worked at Cozen O'Connor as an Information Systems intern, where I have b
  
 ## Dashboard
   ![image](https://github.com/user-attachments/assets/d077c6d2-b4ca-404c-b151-9c5572e12d3a)
+
+### Filters
+![image](https://github.com/user-attachments/assets/a8358f8b-cb0d-4c5c-88cb-1b67133172f6)
+![image](https://github.com/user-attachments/assets/6b3ec9ce-1172-4c4f-843a-45ea8e18cf27)
+![image](https://github.com/user-attachments/assets/d1b1c9d5-a7bb-4179-84aa-9f6b55a84891)
+
+
 
