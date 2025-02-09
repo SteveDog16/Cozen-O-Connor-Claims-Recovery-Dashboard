@@ -51,5 +51,31 @@ The objective of this project is to analyze paid claim trends at Cozen O'Connor 
 
 - "Issued Demand Letter to Responsible Party" is the stage with the highest paid claims, following "Demand Under Review by Adverse Carrier/Resp Party" and "Settled and Awaiting Settlement Proceeds". This means that the majority of the claim amount is paid during the earlier stages of the litigation process.
 - Claim that occurred in 2022 have a lot of paid amount at many distributed early stages. 2021 claims are also widely distributed in the early stages, but not as much as 2022. There are very few claims from 2018, 2020, and 2023 that showed up in some of the stages.
+- The spring months have a lot of paid amount at many distributed early stages.
 
-- 
+## 4. What are the relationships between date variables in terms of the paid claim amount?
+![image](https://github.com/user-attachments/assets/2b7be990-b849-4261-a384-aa60717b4584)
+![image](https://github.com/user-attachments/assets/78b0eb83-73b0-44f1-af55-72c8885d5126)
+
+- Since SOL PD only ranges between February to May of 2024, it is not as significant as the other dates in analyzing the paid claim amount.
+- There's a huge day difference between add and incident dates in February-March of 2020. Despite the huge difference, the paid claim amount is not as high as in 2022, which has little day difference. The smallest difference occurred throughout 2023. The pattern is very similar when comparing the trend of incident dates and paid claim and count vs. add dates and paid claim and count. Therefore, there's very little significance in the impact that the relationship between these variables have on paid claim.
+
+## 5. What are the recommended next steps based on the findings?
+
+The main recommended next objective is to address the spike in incidents and the associated paid claims observed during February to May 2022.
+
+Some of the steps that are recommended to take to work on this objective include:
+1. Incident Categorization: Break down the incidents by category to see if specific categories are contributing disproportionately to the spike.
+    - If there are, conduct a detailed review of the financial impact of these incidents. Which types of claims were most costly? This could help prioritize areas for immediate intervention. Then, assess current insurance covers and claims processes to identify potential improvements or areas where coverage might need to be enhanced.
+2. Internal Factors: Evaluate internal operational factors such as changes in workforce or policy shifts during these months and year that might have contributed to the rise in incidents.
+3. External Factors: Consider external influences like economic downturns, regulatory changes, or environmental factors. For instance, severe weather conditions can often lead to higher incidents in certain industries.
+    - This could be further investigated by reviewing the geographical distribution of the incidents. Certain regions might be more affected during these months due to local factors.
+4. Historical Comparisons: Compare this period with any similar past events. Understanding how these were managed and what the outcomes were can provide valuable lessons.
+    - Then, evaluate the effectiveness of measures taken in response to past incidents. This will help in refining current strategies.
+5. Employee Feedback: Interview employees and management to gain insights into what they believe might be causing the increase. This might uncover issues not visible through data analysis alone.
+6. Customer Feedback: If applicable, gather feedback from customers or end-users affected by these incidents. They might provide a perspective that internal data does not capture.
+7. Preventative Measures: Develop or enhance preventative measures based on the findings. This could include training, better safety protocols, or enhanced risk management strategies.
+8. Monitoring Systems: Implement or upgrade existing systems for better monitoring and reporting of incidents as they occur.
+9. Continuous Improvement: Regularly review the outcomes of implemented measures and adjust strategies as needed based on what is or isn’t working. Also establish feedback loops with all stakeholders involved to ensure that all perspectives are considered in ongoing incident management strategies.
+
+  
