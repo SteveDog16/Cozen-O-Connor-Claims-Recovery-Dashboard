@@ -10,11 +10,11 @@ I have worked at Cozen O'Connor as an Information Systems intern, where I have b
 - What recovery stages associate with low and high paid claim amount?
 - Do the add and SOL projected dates affect the paid claim amount?
 
-  # Tools Used
+## Tools Used
 - Python for data exploration, analysis, and visualization
 - Power BI for displaying KPIs, graphs, and filters
 
-  # Dataset
+## Dataset
 
   The dataset consists of 238 claims. The columns are:
 - Unique Identifier: Code that distinguishes a claim from others.
@@ -26,6 +26,6 @@ I have worked at Cozen O'Connor as an Information Systems intern, where I have b
 - Add Date: The date when this case or incident was added to the tracking system.
 - Recovery Stage: The current stage of the recovery or resolution process for this case. The demand has been made and is under review by the opposing party or their insurance carrier.
  
-  # Dashboard
+## Dashboard
   ![image](https://github.com/user-attachments/assets/d077c6d2-b4ca-404c-b151-9c5572e12d3a)
 
